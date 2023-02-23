@@ -1178,8 +1178,14 @@ a {
 .cid-t9wXKBlJSy .copyright {
   color: #bbbbbb;
 }
-.cid-t9wtLy3LWw .navbar-dropdown {
-  position: relative !important;
+.cid-t9wtLy3LWw {
+  z-index: 1000;
+  width: 100%;
+  position: relative;
+  min-height: 60px;
+}
+.cid-t9wtLy3LWw nav.navbar {
+  position: fixed;
 }
 .cid-t9wtLy3LWw .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -1503,6 +1509,7 @@ a {
 }
 .cid-t9wtLy3LWw .navbar-dropdown {
   padding: 0 1rem;
+  position: fixed;
 }
 .cid-t9wtLy3LWw a.nav-link {
   display: flex;
