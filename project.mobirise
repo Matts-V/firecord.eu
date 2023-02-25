@@ -94,7 +94,7 @@
         "main": true,
         "title": "Home",
         "meta_descr": "",
-        "header_custom": "<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7298356806457678\"\n  crossorigin=\"anonymous\"></script>\n\n  <meta property=\"og:title\" content=\"Firecord\" />\n  <meta property=\"og:type\" content=\"website\" />\n  <meta property=\"og:image\" content=\"https://firecord.eu/assets/images/firecord-96x96.png\" />\n  <meta property=\"og:description\" content=\"Firecord was found on the 22 of June 2022, yea.. Drowny exists longer than Firecord! Our goal was to manage al our sub-names under 1 name.\" />\n  <meta name=\"theme-color\" content=\"#feac00\">\n  <meta name=\"twitter:card\" content=\"summary_large_image\">\n  <meta charset=\"utf-8\">\n  <meta name=\"description\" content=\"Firecord was found on the 22 of June 2022, yea.. Drowny exists longer than Firecord! Our goal was to manage al our sub-names under 1 name.\">\n  <meta name=\"google-site-verification\" content=\"9uAz1mtgT-CEKNKfrBHGubP6QtXNz_NOHovoxIwt5-E\">",
+        "header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-YSDYM8RGR0\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-YSDYM8RGR0');\n</script>",
         "footer_custom": "",
         "html_before": "",
         "socialSharingUrl": ""
@@ -761,7 +761,7 @@
       "settings": {
         "title": "About us",
         "order": 1,
-        "header_custom": "<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7298356806457678\"\n  crossorigin=\"anonymous\"></script>\n\n  <meta property=\"og:title\" content=\"Firecord\" />\n  <meta property=\"og:type\" content=\"website\" />\n  <meta property=\"og:image\" content=\"https://firecord.eu/assets/images/firecord-96x96.png\" />\n  <meta property=\"og:description\" content=\"Firecord was found on the 22 of June 2022, yea.. Drowny exists longer than Firecord! Our goal was to manage al our sub-names under 1 name.\" />\n  <meta name=\"theme-color\" content=\"#feac00\">\n  <meta name=\"twitter:card\" content=\"summary_large_image\">\n  <meta charset=\"utf-8\">\n  <meta name=\"description\" content=\"Firecord was found on the 22 of June 2022, yea.. Drowny exists longer than Firecord! Our goal was to manage al our sub-names under 1 name.\">\n  <meta name=\"google-site-verification\" content=\"9uAz1mtgT-CEKNKfrBHGubP6QtXNz_NOHovoxIwt5-E\">"
+        "header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-YSDYM8RGR0\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-YSDYM8RGR0');\n</script>"
       },
       "components": [
         {
